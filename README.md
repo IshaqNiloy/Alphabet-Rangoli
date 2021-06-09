@@ -69,12 +69,12 @@ Sample Input
 5
 Sample Output
 
---------e--------
-------e-d-e------
-----e-d-c-d-e----
---e-d-c-b-c-d-e--
-e-d-c-b-a-b-c-d-e
---e-d-c-b-c-d-e--
-----e-d-c-d-e----
-------e-d-e------
---------e--------
+--------e--------<br>
+------e-d-e------<br>
+----e-d-c-d-e----<br>
+--e-d-c-b-c-d-e--<br>
+e-d-c-b-a-b-c-d-e<br>
+--e-d-c-b-c-d-e--<br>
+----e-d-c-d-e----<br>
+------e-d-e------<br>
+--------e--------<br>
